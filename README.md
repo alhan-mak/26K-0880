@@ -1,4 +1,4 @@
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture]([https://via.placeholder.com/150](https://github.com/alhan-mak/26K-0880/blob/main/pfp.jpeg?raw=true))
 
 # Alhan Allahdin
 
