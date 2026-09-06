@@ -1,4 +1,4 @@
-![Profile Picture](https://github.com/alhan-mak/26K-0880/blob/main/pfp.jpeg?raw=true)
+![Profile Picture](https://github.com/alhan-mak/26K-0880/blob/main/pfp.jpg)
 
 # Alhan Allahdin
 
