@@ -13,3 +13,11 @@
 
 ## Projects
 - Lab 03 C Debugging Exercises
+
+## Hobbies & Extracurriculars
+1. Gaming
+   - [x] Configure dedicated GPU for Minecraft
+   - [ ] Play open-world co-op games
+2. Coding
+   - [x] Complete Lab 03 C tasks
+   - [ ] Push Git resume
