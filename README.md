@@ -1,5 +1,5 @@
 ![Profile Picture](https://github.com/alhan-mak/26K-0880/blob/main/pfp.jpeg?raw=true)
-<img src="pfp.jpeg" alt="Profile Picture" width="150">
+
 # Alhan Allahdin
 
 ## Education
